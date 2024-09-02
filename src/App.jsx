@@ -1,10 +1,9 @@
-import React from 'react';
-import Countries from './components/Countries';
+import Home from './pages/Home';
 
 function App() {
   return (
     <>
-      <Countries />
+      <Home />
     </>
   );
 }

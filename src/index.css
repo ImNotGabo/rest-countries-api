@@ -15,5 +15,8 @@ img {
 
 body {
   @apply font-sans;
+  padding: 20px;
+  background-color: #202d36;
+  color: #fff;
 }
 
