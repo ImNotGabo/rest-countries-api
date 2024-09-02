@@ -9,12 +9,9 @@
   box-sizing: border-box;
 }
 
-img {
-  max-width: 100%;
-}
-
 body {
   @apply font-sans;
+  font-weight: 600;
   padding: 20px;
   background-color: #202d36;
   color: #fff;
