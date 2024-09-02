@@ -1,7 +1,10 @@
+import React from 'react';
+import Countries from './components/Countries';
+
 function App() {
   return (
     <>
-      <h1>Hello world</h1>
+      <Countries />
     </>
   );
 }
