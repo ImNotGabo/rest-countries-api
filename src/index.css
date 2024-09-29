@@ -12,8 +12,7 @@
 body {
   @apply font-sans;
   font-weight: 600;
-  padding: 20px;
-  background-color: #202d36;
+  background-color: #202c36;
   color: #fff;
 }
 
